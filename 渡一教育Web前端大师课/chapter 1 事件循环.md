@@ -16,3 +16,4 @@
 最开始输出5<br/>
 后面输出 4 -> 3 ->1 ->2 <br/>
 
+<img width="1181" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/9d31c4dc-0b38-499c-9e1d-df1a059c6b70">
