@@ -13,5 +13,9 @@
 
 <img width="1167" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/8148b4ff-6772-4047-b91d-3845b4b02271">
 
+
+<img width="1173" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/3aec2c34-73dc-4dfb-b39a-1079b066f277">
+
 最开始输出5<br/>
+后面输出 4 -> 3 ->1 ->2 <br/>
 
