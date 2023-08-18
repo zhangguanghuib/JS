@@ -19,4 +19,5 @@
 <img width="1180" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/f9e4a1f8-c12a-4470-b630-fcf500f007aa">
 
 上面代码输出5->1->2->3
+<img width="1041" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/93ec80da-e706-4a27-85ff-0ced89572539">
 
