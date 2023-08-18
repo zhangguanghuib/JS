@@ -7,4 +7,11 @@
 下面代码输出 2 1<br/>
 <img width="595" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/1138b622-6ea1-4194-b388-8bdff24dd7e3"><br/>
 下面代码输出 3 2 1 <br/>
-<img width="1034" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/35fdfe20-414a-44bf-ad0a-b404614b9766">
+<img width="1034" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/35fdfe20-414a-44bf-ad0a-b404614b9766"><br/>
+下面代码输出 2 1<br/>
+<img width="519" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/86bc5ed9-0f10-469f-aa6e-dfc5d87a28be"><br/>
+
+<img width="1167" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/8148b4ff-6772-4047-b91d-3845b4b02271">
+
+最开始输出5<br/>
+
