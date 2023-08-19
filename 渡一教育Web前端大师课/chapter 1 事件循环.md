@@ -21,3 +21,4 @@
 上面代码输出5->1->2->3
 <img width="1041" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/93ec80da-e706-4a27-85ff-0ced89572539">
 
+<img width="842" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/87cfaa4f-e9ad-4363-9ee1-3d048f5a2874">
