@@ -2,6 +2,8 @@
 
 <img width="954" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/32e076e9-1613-438c-84f8-73ee5141eda8">
 
+<img width="999" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/88618aaa-08f7-419d-867a-9b04d43fd672">
+
 <img width="1048" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/ea976c56-10c8-4790-88f5-fa488fe1e9c5">
 <img width="906" alt="image" src="https://github.com/zhangguanghuib/JS/assets/14832260/5a730ef6-4126-4f76-a31a-bab9cca36bf8">
 点击Button, 页面会卡死.
