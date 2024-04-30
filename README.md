@@ -1,2 +1,4 @@
 # JS
-This repo is for JS core, JS algorithm, React, Vue
+
+
+1. Build Chat GPT  with Javascript  https://www.youtube.com/watch?v=2FeymQoKvrk&t=416s
